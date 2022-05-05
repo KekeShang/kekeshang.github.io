@@ -1502,6 +1502,11 @@ a {
     left: -1rem;
   }
 }
+.cid-t4XdAaHy0f {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
 .cid-sPJAIflEeZ {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -1510,6 +1515,9 @@ a {
 .cid-sPJAIflEeZ .mbr-text,
 .cid-sPJAIflEeZ .link {
   text-align: center;
+}
+.cid-sPJAIflEeZ .link {
+  color: #4479d9;
 }
 .cid-sPJy4IoRtZ {
   padding-top: 75px;
